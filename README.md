@@ -1,5 +1,5 @@
 # Semantic-Search-Elasticsearch-Flask-Docker-
-Built Semantic search and normal keyword search. For Semantic search model used is Universal Sentence Encoder(USE4). Deployed using flask. Built it in Docker.
+Built Semantic search and normal keyword search. For Semantic search model used is Universal Sentence Encoder(USE4). Deployed using flask and Docker.
 ![image](https://user-images.githubusercontent.com/87763217/170395167-c34db81d-adfb-4458-9063-5dbf7a72518d.png)
 
 Commands used:
